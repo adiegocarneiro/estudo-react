@@ -11,3 +11,4 @@ export const TextInput = ( {searchValue, handleChange} ) => {
         />
     )
 }
+
